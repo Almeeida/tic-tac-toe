@@ -1,2 +1,2 @@
-# tic-tac-toe
-Simple tic-tac-toe game
+# Tic-Tac-Toe
+Made by [Almeida](https://github.com/Almeeida) and [Tsugami](https://github.com/Tsugami)
